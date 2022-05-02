@@ -1,0 +1,68 @@
+{"0": {
+    "doc": "cfarrend.github.io",
+    "title": "cfarrend.github.io",
+    "content": "# cfarrend.github.io A good description is clear, short, and to the point. Describe the purpose of the project and what it does. Your README should contain only the necessary information for **developers** to get started **contributing** to your project. ## Installation 1. Install [Docker](https://docs.docker.com/get-docker/). ## Usage 1. `docker run -p 4000:4000 --rm -v $(pwd):/srv/jekyll jekyll/jekyll:4 jekyll serve`. ## Contributing See [Contributing](https://github.com/cfarrend/cfarrend.github.io/blob/master/CONTRIBUTING.md). ## Credits See [Contributors](https://github.com/cfarrend/cfarrend.github.io/graphs/contributors). ## License See [LICENSE](https://github.com/cfarrend/cfarrend.github.io/blob/master/LICENSE). ",
+    "url": "http://0.0.0.0:4000/",
+    "relUrl": "/"
+  },"1": {
+    "doc": "Anime",
+    "title": "Anime",
+    "content": "Anime. ",
+    "url": "http://0.0.0.0:4000/topics/anime",
+    "relUrl": "/topics/anime"
+  },"2": {
+    "doc": "Kimetsu no Yaiba",
+    "title": "Kimetsu no Yaiba",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/topics/anime/kimetsu-no-yaiba",
+    "relUrl": "/topics/anime/kimetsu-no-yaiba"
+  },"3": {
+    "doc": "Drama",
+    "title": "Drama",
+    "content": "Drama. ",
+    "url": "http://0.0.0.0:4000/topics/drama",
+    "relUrl": "/topics/drama"
+  },"4": {
+    "doc": "Terrace House",
+    "title": "Terrace House",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/topics/drama/terrace-house",
+    "relUrl": "/topics/drama/terrace-house"
+  },"5": {
+    "doc": "まだ",
+    "title": "取りあえず",
+    "content": "This is an example of the use of まだ. ",
+    "url": "http://0.0.0.0:4000/topics/youtube/mada#%E5%8F%96%E3%82%8A%E3%81%82%E3%81%88%E3%81%9A",
+    "relUrl": "/topics/youtube/mada#取りあえず"
+  },"6": {
+    "doc": "まだ",
+    "title": "Dictation learning",
+    "content": "Lisen to the video and speak. ",
+    "url": "http://0.0.0.0:4000/topics/youtube/mada#dictation-learning",
+    "relUrl": "/topics/youtube/mada#dictation-learning"
+  },"7": {
+    "doc": "まだ",
+    "title": "まだ",
+    "content": " ",
+    "url": "http://0.0.0.0:4000/topics/youtube/mada",
+    "relUrl": "/topics/youtube/mada"
+  },"8": {
+    "doc": "取りあえず",
+    "title": "取りあえず",
+    "content": "This is an example of the use of 取りあえず. ",
+    "url": "http://0.0.0.0:4000/topics/youtube/toriaezu",
+    "relUrl": "/topics/youtube/toriaezu"
+  },"9": {
+    "doc": "取りあえず",
+    "title": "Dictation learning",
+    "content": "Lisen to the video and speak. ",
+    "url": "http://0.0.0.0:4000/topics/youtube/toriaezu#dictation-learning",
+    "relUrl": "/topics/youtube/toriaezu#dictation-learning"
+  },"10": {
+    "doc": "YouTube",
+    "title": "YouTube",
+    "content": "A collection of YouTube videos with grammar examples. ",
+    "url": "http://0.0.0.0:4000/topics/youtube",
+    "relUrl": "/topics/youtube"
+  }
+}

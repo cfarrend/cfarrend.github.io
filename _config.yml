@@ -1,1 +1,15 @@
-theme: jekyll-theme-modernist
+# Just the Docs general settings.
+color_scheme: dark
+
+# Jekyll general settings.
+remote_theme: just-the-docs/just-the-docs
+
+# Define Jekyll collections.
+collections:
+  topics:
+    permalink: "/:collection/:path"
+    output: true
+just_the_docs:
+  collections:
+    topics:
+      name: Topics
